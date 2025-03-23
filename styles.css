@@ -151,3 +151,17 @@ a:hover {
 p, ul, li {
     color: #CFD7C7;
 }
+
+.float-container {
+    overflow: hidden; 
+}
+
+.float-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.float-text {
+    overflow: hidden; 
+}
+
